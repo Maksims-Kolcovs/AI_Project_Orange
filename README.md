@@ -42,16 +42,19 @@
 - Alcohol
 
 ### 🎯 Klašu Iezīme (Target):
-- **Quality**  
-  Kategoriska (vērtības no **3** līdz **8**), iespējams grupēt kā:  
-  - *Zema (3-4)*  
-  - *Vidēja (5-6)*  
-  - *Augsta (7-8)*
+### Kvalitātes atzīmju apraksts
+- **3 – Ļoti zemas kvalitātes vīns**: Nedzerams, ar izteiktiem defektiem (~10 paraugi).
+- **4 – Zemas kvalitātes vīns**: Nelieli defekti, nav ieteicams lietošanai (~50 paraugi).
+- **5 – Vidējas kvalitātes vīns**: Ikdienas vīns, pieņemams, bet vienkāršs (~680 paraugi).
+- **6 – Labas kvalitātes vīns**: Baudāms, ar sabalansētu garšu (~640 paraugi).
+- **7 – Ļoti labas kvalitātes vīns**: Augsta kvalitāte, sarežģīta garša (~200 paraugi).
+- **8 – Izcilas kvalitātes vīns**: Izcils, ar perfektu līdzsvaru (~18 paraugi).
 
 📌 *Mēs izmantojām tikai sarkanā vīna datus (kopā **1599** paraugi) klasifikācijai.*
 
 ---
-
+### 📊 Histogrammas pēc atribūtiem:
+*Zemāk redzami histogrammu attēli, kas parāda dažādu pazīmju ietekmi uz klašu sadalījumu*
 
 ### 🔹 Fixed Acidity  
 ![fixed](https://github.com/user-attachments/assets/934f4a6d-2a04-468c-9289-ae6c411275dd)
@@ -85,6 +88,27 @@
 
 ### 🔹 Alcohol  
 ![alcohol](https://github.com/user-attachments/assets/e56fa252-72e0-428c-8a33-eac8a8ae7b64)
+
+### 📊 Scatter plot pēc atribūtiem:
+*Zemāk redzami scatter plot attēli, kas parāda dažādu pazīmju ietekmi uz klašu sadalījumu*
+
+### 🔹 X = Fixed acidity --- Y = Volatile acidity
+![A](https://github.com/user-attachments/assets/2a577ecf-bba0-4d5a-81b5-26f26e1d91a5)
+
+### 🔹 X = Citric acid --- Y = Residual sugar
+![B](https://github.com/user-attachments/assets/9767ff5f-2707-41e7-8832-dc032347e629)
+
+### 🔹 X = Chlorides --- Y = Free sulfur dioxide
+![C](https://github.com/user-attachments/assets/2aff81bf-22a0-4d36-a740-1b3ceab3583a)
+
+### 🔹 X = Total sulfur dioxide --- Y = Density
+![D](https://github.com/user-attachments/assets/afe26faf-77b4-4a6d-92c3-ee00625c4a75)
+
+### 🔹 X = pH --- Y = Sulphates 
+![E](https://github.com/user-attachments/assets/e79fc784-1875-4631-82af-424f3243b3a2)
+
+### 🔹 X = pH --- Y = Alcohol
+![F](https://github.com/user-attachments/assets/78a06e6f-9fb4-449f-9e32-5d416fd1ef36)
 
 ---
 
