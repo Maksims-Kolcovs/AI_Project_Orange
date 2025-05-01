@@ -13,9 +13,15 @@
 
 ## Izvēlētās datu kopas apraksts🍷
 Avots: UC Irvine Machine Learning Repository (https://archive.ics.uci.edu/dataset/186/wine+quality).
+
 Izveidotāji: Paulo Cortez et al., University of Minho, Portugāle, 2009.
+
 Licence: Brīvi lietojama akadēmiskiem mērķiem.
+
 Pazīmes: 11 nepārtrauktas (fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free/total sulfur dioxide, density, pH, sulphates, alcohol).
+
 Klašu iezīme: Quality (kategoriska, 3–8, grupējama kā zema/vidēja/augsta).
+
 Mēs paņēmām par pamatu sarkano vīnu (avotā ir gan baltais, gan sarkanais), un izstrādājām klasifikāciju tieši sarkanajam.
+
 Objektu (sarkano vīnu) skaits ir 1599
