@@ -105,7 +105,7 @@
 ![D](https://github.com/user-attachments/assets/afe26faf-77b4-4a6d-92c3-ee00625c4a75)
 
 ### 🔹 X = pH --- Y = Sulphates 
-![E](https://github.com/user-attachments/assets/e79fc784-1875-4631-82af-424f3243b3a2)
+![E+](https://github.com/user-attachments/assets/2a466090-a357-48d3-9fb5-3fdab176fd1e)
 
 ### 🔹 X = pH --- Y = Alcohol
 ![F](https://github.com/user-attachments/assets/78a06e6f-9fb4-449f-9e32-5d416fd1ef36)
