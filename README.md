@@ -44,9 +44,9 @@
 ### 🎯 Klašu Iezīme (Target):
 - **Quality**  
   Kategoriska (vērtības no **3** līdz **8**), iespējams grupēt kā:  
-  - *Zema*  
-  - *Vidēja*  
-  - *Augsta*
+  - *Zema (3-4)*  
+  - *Vidēja (5-6)*  
+  - *Augsta (7-8)*
 
 📌 *Mēs izmantojām tikai sarkanā vīna datus (kopā **1599** paraugi) klasifikācijai.*
 
