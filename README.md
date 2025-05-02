@@ -117,4 +117,4 @@
 ![ABCDE](https://github.com/user-attachments/assets/2f22b69e-fcb5-42cb-be21-1793230c2650)
 
 ### Vidējās vērtības un Dispersija
-![123](https://github.com/user-attachments/assets/7b5835bb-2c2a-438e-ac7f-4e9deb555922)
+![124](https://github.com/user-attachments/assets/876af10e-d129-40d0-8c57-a0db6dedb6e5)
