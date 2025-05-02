@@ -53,6 +53,7 @@
 📌 *Mēs izmantojām tikai sarkanā vīna datus (kopā **1599** paraugi) klasifikācijai.*
 
 ---
+
 ### 📊 Histogrammas pēc atribūtiem:
 *Zemāk redzami histogrammu attēli, kas parāda dažādu pazīmju ietekmi uz klašu sadalījumu*
 
@@ -112,4 +113,8 @@
 
 ---
 
+### 2 interesējošo pazīmju (atribūtu) sadalījums: alcohol un fixed acidity
+![ABCDE](https://github.com/user-attachments/assets/2f22b69e-fcb5-42cb-be21-1793230c2650)
 
+### Vidējās vērtības un Dispersija
+![Orangeee](https://github.com/user-attachments/assets/6dc7990a-88c4-4560-b43e-0401de4579d0)
