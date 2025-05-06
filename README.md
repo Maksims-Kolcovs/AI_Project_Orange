@@ -44,10 +44,10 @@
 ### 🎯 Klašu Iezīme (Target):
 ### Kvalitātes atzīmju apraksts
 - **3 – Ļoti zemas kvalitātes vīns**: Nedzerams, ar izteiktiem defektiem (~10 paraugi).
-- **4 – Zemas kvalitātes vīns**: Nelieli defekti, nav ieteicams lietošanai (~50 paraugi).
-- **5 – Vidējas kvalitātes vīns**: Ikdienas vīns, pieņemams, bet vienkāršs (~680 paraugi).
-- **6 – Labas kvalitātes vīns**: Baudāms, ar sabalansētu garšu (~640 paraugi).
-- **7 – Ļoti labas kvalitātes vīns**: Augsta kvalitāte, sarežģīta garša (~200 paraugi).
+- **4 – Zemas kvalitātes vīns**: Nelieli defekti, nav ieteicams lietošanai (~53 paraugi).
+- **5 – Vidējas kvalitātes vīns**: Ikdienas vīns, pieņemams, bet vienkāršs (~681 paraugi).
+- **6 – Labas kvalitātes vīns**: Baudāms, ar sabalansētu garšu (~638 paraugi).
+- **7 – Ļoti labas kvalitātes vīns**: Augsta kvalitāte, sarežģīta garša (~199 paraugi).
 - **8 – Izcilas kvalitātes vīns**: Izcils, ar perfektu līdzsvaru (~18 paraugi).
 
 📌 *Mēs izmantojām tikai sarkanā vīna datus (kopā **1599** paraugi) klasifikācijai.*
