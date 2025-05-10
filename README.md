@@ -17,7 +17,7 @@
 | Maksims Koļcovs        | 231RDB363      |
 | Staņislava Šuļženko    | 231RDB330      |
 | Dmitrijs Borisevičs    | 231RDB352      |
-| *(Tukšs)*              | —              |
+| Kirills Nalimovs       | 231RMC197      |
 | Dāvis Fomičevs         | 221RDB346      |
 
 ---
