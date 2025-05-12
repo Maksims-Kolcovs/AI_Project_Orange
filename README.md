@@ -8,7 +8,8 @@
    Skatīts: 2025. gada 1. maijā  
    [🔗 Tiešsaiste](https://archive.ics.uci.edu/dataset/186/wine+quality)
 
-2. *Anup Chakole* (Sep 29, 2024). *K-Nearest Neighbors (KNN)*, Skatīts: 2025. gada 9. maijā
+2. *Anup Chakole* (Sep 29, 2024). *K-Nearest Neighbors (KNN)*.
+   Skatīts: 2025. gada 9. maijā
     [🔗 Tiešsaiste](https://medium.com/@anupchakole/k-nearest-neighbors-knn-d8013486db6f)
 
 ---
