@@ -6,7 +6,7 @@
 
 1. *Cortez, P. et al.* (2009). *Decision Support Systems*, 47(4), 547–553, skatīts: 2025. gada 1. maijā. [tiešsaiste] Pieejams: https://archive.ics.uci.edu/dataset/186/wine+quality
 2. *Anup Chakole* (Sep 29, 2024). *K-Nearest Neighbors (KNN)*, skatīts: 2025. gada 9. maijā. [tiešsaiste] Pieejams: https://medium.com/@anupchakole/k-nearest-neighbors-knn-d8013486db6f
-3. Pieejams: https://pub.towardsai.net/adaboost-explained-from-its-original-paper-e46b9e4d8c57
+3. *Christian Guerra* (Jul 5, 2024). *AdaBoost Explained From Its Original Paper*, skatīts: 2025. gada 10. maijā. [tiešsaiste] Pieejams: https://pub.towardsai.net/adaboost-explained-from-its-original-paper-e46b9e4d8c57
 
 ---
 
